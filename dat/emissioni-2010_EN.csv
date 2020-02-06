@@ -1,0 +1,9 @@
+source,PM10,NH3,NOx,SO2,COV
+agriculture/livestock,418,49299,637,0,59
+road freight,2636,54,45202,173,3263
+domestic wood heating,5316,154,1517,200,27460
+light vehicles,1842,774,15086,191,4008
+industry,1614,1107,15299,14315,54485
+energy production,86,0,9482,430,1534
+domestic heating (not wood),80,0,7212,995,849
+other sources,1646,135,12309,1196,7344
